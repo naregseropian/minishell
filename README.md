@@ -1,6 +1,6 @@
 ### Objective
 
-The goal of the Minishell project is to develop a simple, functional shell program, similar to a basic version of bash. This project focuses on enhancing knowledge of process management and file descriptors in C.
+The goal of the Minishell project is to pair-develop a simple, functional shell program, similar to a basic version of bash. This project focuses on enhancing knowledge of process management, file descriptors in C as well as team work. This project was developed with Mauri Zalazar @smzalazar.
 
 ### Project Requirements
 
